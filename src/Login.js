@@ -18,7 +18,7 @@ function loginUser() {
           alert('Wrong Credentials')
       }
   } else {
-      console.log('Wrong credentials') // Don't say "Not a registered user"
+      console.log('Wrong credentials')
   }
 }
   return (
